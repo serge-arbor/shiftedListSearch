@@ -1,3 +1,7 @@
+## Demo
+
+[See and run demo in www.mycompiler.io](https://www.mycompiler.io/view/EsAGXFyqNOs)
+
 ## Development
 
 Install dependencies
